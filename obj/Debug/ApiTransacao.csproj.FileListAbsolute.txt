@@ -1,0 +1,59 @@
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\csc.exe
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\System.Collections.Immutable.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\vbc.exe
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\VBCSCompiler.exe
+F:\Projetos\MicroServicos\ApiTransacao\bin\roslyn\VBCSCompiler.exe.config
+F:\Projetos\MicroServicos\ApiTransacao\bin\ApiTransacao.dll.config
+F:\Projetos\MicroServicos\ApiTransacao\bin\ApiTransacao.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\ApiTransacao.pdb
+F:\Projetos\MicroServicos\ApiTransacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\Newtonsoft.Json.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\System.Net.Http.Formatting.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\System.Web.Http.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\System.Web.Http.WebHost.dll
+F:\Projetos\MicroServicos\ApiTransacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projetos\MicroServicos\ApiTransacao\bin\Newtonsoft.Json.xml
+F:\Projetos\MicroServicos\ApiTransacao\bin\System.Net.Http.Formatting.xml
+F:\Projetos\MicroServicos\ApiTransacao\bin\System.Web.Http.xml
+F:\Projetos\MicroServicos\ApiTransacao\bin\System.Web.Http.WebHost.xml
+F:\Projetos\MicroServicos\ApiTransacao\obj\Debug\ApiTransacao.csprojResolveAssemblyReference.cache
+F:\Projetos\MicroServicos\ApiTransacao\obj\Debug\ApiTransacao.dll
+F:\Projetos\MicroServicos\ApiTransacao\obj\Debug\ApiTransacao.pdb
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\csc.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\System.Collections.Immutable.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\System.Reflection.Metadata.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\vbc.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\VBCSCompiler.exe
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\roslyn\VBCSCompiler.exe.config
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\ApiTransacao.dll.config
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\ApiTransacao.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\ApiTransacao.pdb
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\Microsoft.Web.Infrastructure.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\Newtonsoft.Json.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\Swashbuckle.Core.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\System.Net.Http.Formatting.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\System.Web.Http.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\System.Web.Http.WebHost.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\WebActivatorEx.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\Newtonsoft.Json.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\System.Net.Http.Formatting.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\System.Web.Http.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\bin\System.Web.Http.WebHost.xml
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\obj\Debug\ApiTransacao.csprojResolveAssemblyReference.cache
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\obj\Debug\ApiTransacao.dll
+F:\PUC - Pós\Backend\MicroServicos\ApiTransacao\obj\Debug\ApiTransacao.pdb
